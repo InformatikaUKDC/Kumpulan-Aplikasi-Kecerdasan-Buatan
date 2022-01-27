@@ -1,7 +1,7 @@
 # Kumpulan-Aplikasi-Kecerdasan-Buatan
 Buku  Kumpulan Aplikasi Kecerdasan Buatan dibuat oleh informatika UKDC angkatan 19 bersama Dosen Bu Yulia Wahyuningsih.
 
-Donwload Buku Salin link berikut ini 
+Unduh Buku Salin link berikut ini 
 ` Masih Progress `
 
 - Membuat Prediksi Kelulusan Pelajar Menggunakan Decision Tree 
