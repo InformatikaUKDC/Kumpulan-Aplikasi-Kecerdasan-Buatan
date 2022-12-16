@@ -1,5 +1,18 @@
 [![noranekoit -Belajar-Identifikasi-burung-dengan-gambar](https://img.shields.io/static/v1?label=noranekoit&message=Belajar-Identifikasi-burung-dengan-gambar&color=blue&logo=github)](https://github.com/noranekoit/Belajar-Identifikasi-burung-dengan-gambar "Go to GitHub repo")
 
+## Revisi 
+
+<img width="271" alt="image" src="https://user-images.githubusercontent.com/58914195/208122642-7ab2b7d2-17e0-466d-833a-99817a4d8aec.png">
+Verbose diisi dengan jumlah kelas misal jika terdapat 200 kelas maka disi 200 agar epoch berjalan
+<img width="317" alt="image" src="https://user-images.githubusercontent.com/58914195/208123334-37a80064-bcc0-4f47-8eae-8390ab68ed64.png">
+Maka Verbose diatas diisi verbose = 200
+
+<img width="213" alt="image" src="https://user-images.githubusercontent.com/58914195/208134751-316113be-7629-4a64-8c63-068767cdf668.png">
+Dense sebelum softmax diatas menjadi 200
+
+
+
+
 ## Yang perlu kamu tau, gk tau juga gk papa si :v
 - Referensi buku Python Artificial Intellegence Project for beginners dari packt.com
 - Repostory ini untuk memenuhi syarat penilaian UAS mata kuliah AI 
